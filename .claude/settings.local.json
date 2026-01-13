@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm view:*)",
+      "Bash(pnpm update:*)",
+      "Bash(pnpm build:*)"
+    ]
+  }
+}

@@ -132,7 +132,7 @@ export function Header() {
 
           {/* Desktop CTA */}
           <div className="hidden lg:flex items-center gap-3">
-            <Link href="https://sc-tower.vercel.app/sign-in">
+            <Link href="https://winter-pricing-engine.vercel.app/sign-in">
               <Button variant="ghost" size="sm" className="text-sm">
                 Sign In
               </Button>
@@ -205,7 +205,7 @@ export function Header() {
             </div>
 
             <div className="mt-4 flex flex-col gap-2">
-              <Link href="https://sc-tower.vercel.app/sign-in">
+              <Link href="https://winter-pricing-engine.vercel.app/sign-in">
               <Button variant="outline" className="w-full">
                 Sign In
               </Button>
